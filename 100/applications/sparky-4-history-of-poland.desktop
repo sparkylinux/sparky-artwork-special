@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=04. History of Poland (1795–1918)
+Comment=History of Poland (1795–1918)
+Exec=x-www-browser https://en.wikipedia.org/wiki/History_of_Poland_(1795-1918)
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(English);

@@ -1,0 +1,52 @@
+Upstream Author(s): 
+    Paweł "pavroo" Pijanowski <pavroo@onet.eu>
+
+Files: DEBIAN/*
+    sparky-100*.png/svg with poland1.png
+    sparky-menu100.png with poland.png file
+    sparky-100/background.png
+    Copyright (C) 2018 Paweł Pijanowski
+    License: GPLv3
+
+File: 06_sparky_theme_100
+    Copyright (C) 2018 Paweł Pijanowski
+    Copyright (C) 2010  Alexander Kurtz <kurtz.alex@googlemail.com>
+    License: GPLv3
+
+File: poland.png
+    Copyright (C) Firkin
+    Source: https://openclipart.org/detail/251452/flag-of-poland-bevelled
+    License: Creative Commons CC0
+
+File: poland1.png
+    Copyright (C) tadmac
+    Source: https://openclipart.org/detail/204142/polish-flag
+    License: Creative Commons CC0
+
+Files: sparky-100/*
+    Copyright (C):
+    2018 Paweł Pijanowski
+    2006-2008 Red Hat, Inc.
+    2007-2008 Ray Strode <halfline@gmail.com>
+    2003 University of Southern California
+    2003 Charlie Brej <cbrej@cs.man.ac.uk>
+    License: GPL-2+
+
+License:
+
+    This package is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+ 
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+ 
+    You should have received a copy of the GNU General Public License
+    along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL'.

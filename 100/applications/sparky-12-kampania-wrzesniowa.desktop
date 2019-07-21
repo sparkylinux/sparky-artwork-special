@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=12. Kampania wrześniowa
+Comment=Kampania wrześniowa
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Kampania_wrześniowa
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

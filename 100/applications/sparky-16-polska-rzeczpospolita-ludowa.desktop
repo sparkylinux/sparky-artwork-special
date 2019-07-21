@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=16. Polska Rzeczpospolita Ludowa
+Comment=Polska Rzeczpospolita Ludowa
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

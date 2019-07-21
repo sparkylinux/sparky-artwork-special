@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=10. II Rzeczpospolita
+Comment=II Rzeczpospolita
+Exec=x-www-browser https://pl.wikipedia.org/wiki/II_Rzeczpospolita
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

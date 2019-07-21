@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=18. Solidarity (Polish trade union)
+Comment=Solidarity (Polish trade union)
+Exec=x-www-browser https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(English);

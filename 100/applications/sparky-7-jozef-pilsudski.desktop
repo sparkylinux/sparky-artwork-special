@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=07. Józef Piłsudski
+Comment=Józef Piłsudski
+Exec=x-www-browser https://en.wikipedia.org/wiki/Józef_Piłsudski
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(English);

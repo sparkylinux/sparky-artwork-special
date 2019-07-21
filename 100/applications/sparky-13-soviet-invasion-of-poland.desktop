@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=13. Soviet invasion of Poland
+Comment=Soviet invasion of Poland
+Exec=x-www-browser https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(English);

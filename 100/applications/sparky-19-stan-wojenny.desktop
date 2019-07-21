@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=19. Stan wojenny w Polsce (1981–1983)
+Comment=Stan wojenny w Polsce (1981–1983)
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981–1983)
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

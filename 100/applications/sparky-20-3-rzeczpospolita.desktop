@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=20. III Rzeczpospolita
+Comment=III Rzeczpospolita
+Exec=x-www-browser https://pl.wikipedia.org/wiki/III_Rzeczpospolita
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=06. Rozejm w Compiègne (1918)
+Comment=Rozejm w Compiègne (1918)
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Rozejm_w_Compiègne_(1918)
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

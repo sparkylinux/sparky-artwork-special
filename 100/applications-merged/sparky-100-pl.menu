@@ -1,0 +1,12 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>100(Polski)</Name>
+    <Directory>sparky-100-pl.directory</Directory>
+    <Include>
+      <Category>100(Polski)</Category>
+    </Include>
+  </Menu>
+</Menu>

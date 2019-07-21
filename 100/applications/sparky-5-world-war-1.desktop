@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=05. World War I
+Comment=World War I
+Exec=x-www-browser https://en.wikipedia.org/wiki/World_War_I
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(English);

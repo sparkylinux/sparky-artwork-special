@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=14. Rząd Rzeczypospolitej Polskiej na uchodźstwie
+Comment=Rząd Rzeczypospolitej Polskiej na uchodźstwie
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Rząd_Rzeczypospolitej_Polskiej_na_uchodźstwie
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

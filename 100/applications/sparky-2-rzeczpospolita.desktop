@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=02. Rzeczpospolita Obojga Narodów
+Comment=Rzeczpospolita Obojga Narodów
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Rzeczpospolita_Obojga_Narodów
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

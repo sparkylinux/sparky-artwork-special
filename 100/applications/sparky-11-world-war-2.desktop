@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=11. World War II
+Comment=World War II
+Exec=x-www-browser https://en.wikipedia.org/wiki/World_War_II
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(English);

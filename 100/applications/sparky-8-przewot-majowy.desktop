@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=08. Przewrót majowy
+Comment=Przewrót majowy
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Przewrót_majowy
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

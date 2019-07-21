@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=01. Narodowe Święto Niepodległości
+Comment=Narodowe Święto Niepodległości
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Narodowe_Święto_Niepodległości
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

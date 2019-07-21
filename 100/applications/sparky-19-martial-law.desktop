@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=19. Martial law in Poland
+Comment=Martial law in Poland
+Exec=x-www-browser https://en.wikipedia.org/wiki/Martial_law_in_Poland
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(English);

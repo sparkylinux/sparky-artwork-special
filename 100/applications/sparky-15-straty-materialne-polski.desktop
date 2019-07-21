@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=15. Straty materialne Polski w czasie II wojny światowej
+Comment=Straty materialne Polski w czasie II wojny światowej
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Straty_materialne_Polski_w_czasie_II_wojny_światowej
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

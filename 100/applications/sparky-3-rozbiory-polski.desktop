@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=03. Rozbiory Polski
+Comment=Rozbiory Polski
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Rozbiory_Polski
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

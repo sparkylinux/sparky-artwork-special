@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=13. Agresja ZSRR na Polskę
+Comment=Agresja ZSRR na Polskę
+Exec=x-www-browser https://pl.wikipedia.org/wiki/Agresja_ZSRR_na_Polskę
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

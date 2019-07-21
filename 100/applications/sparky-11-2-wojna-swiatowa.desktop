@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=11. II wojna światowa
+Comment=II wojna światowa
+Exec=x-www-browser https://pl.wikipedia.org/wiki/II_wojna_światowa
+Icon=web-browser
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=100(Polski);

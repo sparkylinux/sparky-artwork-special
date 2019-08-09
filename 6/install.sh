@@ -18,6 +18,9 @@ if [ "$1" = "uninstall" ]; then
 	rm -f /opt/artwork/sparky-game.png
 	rm -f /opt/artwork/sparky-multimedia.png
 	rm -f /opt/artwork/sparky-rescue.png
+	rm -f /opt/artwork/sparky6-game.png
+	rm -f /opt/artwork/sparky6-multimedia.png
+	rm -f /opt/artwork/sparky6-rescue.png
 else
 	if [ ! -d /opt/artwork ]; then
 		mkdir -p /opt/artwork
